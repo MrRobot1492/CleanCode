@@ -1,0 +1,10 @@
+C:\Projects\CleanCode\CleanCode\bin\Debug\CleanCode.dll
+C:\Projects\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.csprojResolveAssemblyReference.cache
+C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.dll
+C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+E:\Projects\CleanCode\CleanCode\bin\Debug\CleanCode.dll
+E:\Projects\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+E:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+E:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.dll
+E:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
